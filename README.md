@@ -1,1 +1,2 @@
 # E-commerce
+Electronic Commerce or e-commerce is business transactions that take place by communication networks. It is a process of buying and selling products, services, and information over computer network. E-commerce is a set of dynamic technologies, applications and business process that link organizations, customers, suppliers and communities through electronic transactions and the electronic exchange of information products and services
